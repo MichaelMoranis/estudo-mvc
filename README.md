@@ -3,7 +3,7 @@
 Curso feito na plataforma da Alura, onde pude entender pela primeira vez os conceitos de mvc, os models views e controllers,
 sendo essa uma estrutura muito utilizada nas aplicacoes web. Entendi o conceito de organizacao de arquivos e responsabilibades de determinadas areas do codigo, como tratamento de dados e exibicao para interacao do usuario.
 
-#Controller
+`Controller`
 
 Onde temos o controle da nossa aplicacao, sendo ele o intermediador entre Model e View.
 
