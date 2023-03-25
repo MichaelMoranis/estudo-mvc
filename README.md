@@ -7,10 +7,10 @@ sendo essa uma estrutura muito utilizada nas aplicacoes web. Entendi o conceito 
 
 Onde temos o controle da nossa aplicacao, sendo ele o intermediador entre Model e View.
 
-#Model 
+`Model`
 Aqui temos o coracao da aplicacao, onde serao preservados e mantidos os dados que recebemos atraves da view.
 
-#View 
+`View`
 
 Sendo ela a responsavel por exibir/renderizar em tela aquivo que foi socilicitado pelo usuario.
 
