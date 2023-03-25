@@ -14,4 +14,4 @@ Aqui temos o coracao da aplicacao, onde serao preservados e mantidos os dados qu
 
 Sendo ela a responsavel por exibir/renderizar em tela aquivo que foi socilicitado pelo usuario.
 
-Um resumo dos meus aprendizados dessa estrutura aprendida por mim no curso da alura.
+Um resumo dos meus aprendizados dessa estrutura  no curso da alura.
